@@ -1,10 +1,6 @@
-# 📂 Algorithm Repository
+## 📋 Repository Overview
 
-Welcome to the **Algorithm Repository**, a structured collection of algorithmic concepts and problem-solving techniques. This repository is designed to help you understand key topics in algorithms, from fundamental concepts to advanced strategies.
-
-## 📋 Syllabus Overview
-
-### **🏆 Unit 1: Fundamentals of Algorithms**
+### **Unit 1: Fundamentals of Algorithms**
 - **Algorithm Design Techniques**
 - **Analysis of Algorithms**
 - **Asymptotic Notations**
@@ -14,7 +10,7 @@ Welcome to the **Algorithm Repository**, a structured collection of algorithmic 
   - Recursion Method
   - Master's Theorem
 
-### **🚀 Unit 2: Divide and Conquer & Greedy Methods**
+### **Unit 2: Divide and Conquer & Greedy Methods**
 #### 🔹 Divide and Conquer Methods
 - Binary Search
 - Quick Sort
@@ -29,7 +25,7 @@ Welcome to the **Algorithm Repository**, a structured collection of algorithmic 
 - Optimal Merge Patterns
 - Huffman Coding
 
-### **🎯 Unit 3: Dynamic Programming**
+### **Unit 3: Dynamic Programming**
 - **Introduction to Dynamic Programming**
 - **0/1 Knapsack Problem**
 - **Multistage Graphs**
@@ -39,7 +35,7 @@ Welcome to the **Algorithm Repository**, a structured collection of algorithmic 
 - **Optimal Binary Search Trees**
 - **Travelling Salesman Problem**
 
-### **🔥 Unit 4: Backtracking and Branch & Bound**
+### **Unit 4: Backtracking and Branch & Bound**
 #### 🔹 Backtracking Concepts
 - N-Queens Problem
 - Sum of Subsets
@@ -49,7 +45,7 @@ Welcome to the **Algorithm Repository**, a structured collection of algorithmic 
 #### 🔹 Branch & Bound
 - Travelling Salesman Problem
 
-### **🎲 Unit 5: Randomized Algorithms and NP Complexity**
+### **Unit 5: Randomized Algorithms and NP Complexity**
 #### 🔹 Randomized Algorithms
 - Randomized Quick Sort
 - Lower Bound Theory
@@ -58,20 +54,6 @@ Welcome to the **Algorithm Repository**, a structured collection of algorithmic 
 - NP-Hard Problems
 - NP-Complete Problems
 - Turing Machines
-
-## 💻 Getting Started
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/YourRepo/Algorithms.git
-   ```
-
-2. Navigate to the project folder:  
-   ```bash
-   cd Algorithms
-   ```
-
-3. Explore the topics and problem sets provided.
 
 ## 🤝 Contributions
 
