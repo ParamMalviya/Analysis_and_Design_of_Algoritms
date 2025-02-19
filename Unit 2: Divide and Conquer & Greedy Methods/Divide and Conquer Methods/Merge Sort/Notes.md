@@ -1,12 +1,11 @@
-### 📌 Merge Sort  
+# 📌 Merge Sort  
 
-```
-# Merge Sort Algorithm
+## Merge Sort Algorithm
 
-## 📖 Overview  
+### 📖 Overview  
 Merge Sort is a **divide and conquer** algorithm that recursively splits an array into smaller subarrays, sorts them, and then merges them back together.
 
-## 📝 Full Code  
+### 📝 Full Code  
 
 ```python
 def merge_sort(arr):
@@ -158,7 +157,5 @@ print(arr)  # Output: [3, 27, 38, 43]
 ### 🔹 Features Added:
 - **Markdown Headers (`#`)**
 - **Proper Code Blocks (` ```python `)**
-- **Emoji Enhancements (`📖`, `🚀`, `🏃`, etc.)**
 - **Table for Complexity Analysis**
 - **References for further reading**
-- **Structured Sections for Better Readability**
