@@ -1,10 +1,6 @@
-Here's the refined `.md` file for your repository:  
+### 📌 Merge Sort  
 
----
-
-### 📌 `README.md` for Merge Sort Repository  
-
-```md
+```
 # Merge Sort Algorithm
 
 ## 📖 Overview  
