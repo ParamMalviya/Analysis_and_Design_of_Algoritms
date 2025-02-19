@@ -1,6 +1,5 @@
 ### 📌 Analysis and Design of Algorithms  
 
-```
 # 📘 Course Modules: Analysis and Design of Algorithms  
 ---
 
@@ -97,8 +96,6 @@
   - 🔹 Turing Machines  
   - 📝 Practice Problems  
 
-```
-
 ## 🛠 How to Navigate  
 
 1. **Clone the Repository**:  
@@ -120,7 +117,6 @@ If you have **additional resources**, **solutions**, or **improvements**, feel f
 ---
 
 ✨ **Happy Learning!** 🚀  
-```
 
 ### 🔹 Features Added:
 - **Markdown Headers (`#`)**
