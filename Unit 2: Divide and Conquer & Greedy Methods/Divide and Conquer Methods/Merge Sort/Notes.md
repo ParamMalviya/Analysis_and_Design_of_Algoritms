@@ -158,4 +158,4 @@ print(arr)  # Output: [3, 27, 38, 43]
 - **Markdown Headers (`#`)**
 - **Proper Code Blocks (` ```python `)**
 - **Table for Complexity Analysis**
-- **References for further reading**
+- **References for further reading.**
